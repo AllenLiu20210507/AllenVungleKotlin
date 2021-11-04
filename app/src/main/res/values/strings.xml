@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vungle Sample App</string>
+    <string name="play_ad">Play</string>
+    <string name="load_ad">Load</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="close">Close</string>
+    <string name="title_interstitial_legacy">title_interstitial_legacy</string>
+    <string name="title_interstitial_dt">title_interstitial_dt</string>
+    <string name="title_rewarded_video">Rewarded Video</string>
+    <string name="title_rewarded_playable">Rewarded Playable</string>
+    <string name="title_mrec">MREC 300x250</string>
+    <string name="title_in_feed">In-Feed</string>
+    <!--<string name="app_id">5bf49746b1fd5362ddda51e2</string>-->
+<!--    banner的ID  BANNER2-2291429-->
+    <string name="app_id">5d479f81f56d05001766c05b</string>
+
+
+
+    <string name="placement_id_interstitial">ALLEN_TEST_INTERSTITIAL-1893805</string>
+    <string name="placement_id_rewarded_video">DEFAULT-2566553</string>
+    <string name="placement_id_mrec">ALLEN_TEST_MREC-4448051</string>
+    <string name="placement_id_banner">BANNER_ALLEN_TEST-6848913</string>
+</resources>
