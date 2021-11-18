@@ -38,7 +38,7 @@ class MainActivity : Activity() {
         // Hide both the navigation bar and the status bar.
 // SYSTEM_UI_FLAG_FULLSCREEN is only available on Android 4.1 and higher, but as
 // a general rule, you should design your app to hide the status bar whenever you
-// hide the navigation bar.
+// hide the navigation bar.ce
         setContentView(R.layout.activity_main)
         appId = getString(R.string.app_id)
         iv = getString(R.string.placement_id_interstitial)
